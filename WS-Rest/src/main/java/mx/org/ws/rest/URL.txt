@@ -1,0 +1,4 @@
+URL WADL -->> http://localhost:8080/WS-Rest/webservice/application.wadl
+
+
+URL XSD -->> http://localhost:8080/WS-Rest/webservice/application.wadl/xsd0.xsd
